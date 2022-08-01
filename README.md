@@ -3,6 +3,11 @@
     <h1 align="center">👋 Hola, soy Cristian Fabián Lopez</h1>
     <h3 align="center">Soy un Desarrollador Web Full Stack con sólidas competencias para el trabajo en equipo, la toma de decisiones y el cumplimiento de objetivos, producto de mis 14 años de experiencia en la industria aeronáutica. Me considero una persona dinámica, con gran voluntad para aprender, flexible y orientada a la mejora continua.</h3>
 </div>
+<div align="left">Escribime a: fabianlopez1988@gmail.com</div>
+<h3 align="left">Contactame:</h3>
+<div align="left"> <a href="https://www.linkedin.com/in/fabianlopez1988/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="JavaScript" alt="JavaScript" width="40" heigth="40"/>&nbsp;
+</div>
+
 <div align="left">
     <h3>Lenguajes y herramientas</h3>
     <div>
