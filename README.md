@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" width="200">
+
     <h1 align="center">👋 Hola, soy Cristian Fabián Lopez</h1>
     <h3 align="center">Soy un Desarrollador Web Full Stack con sólidas competencias para el trabajo en equipo, la toma de decisiones y el cumplimiento de objetivos, producto de mis 14 años de experiencia en la industria aeronáutica. Me considero una persona dinámica, con gran voluntad para aprender, flexible y orientada a la mejora continua.</h3>
 </div>
